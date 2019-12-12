@@ -1,4 +1,3 @@
-# Daily-Expense-Manager
 ## Track  Your Expenses and Income
 
 * Publicly hosted at: https://codefundoiit.000webhostapp.com/
